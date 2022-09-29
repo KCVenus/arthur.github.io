@@ -1,5 +1,4 @@
-# arthur.github.io
-Portfolio d'Arthur DEMOISSON, étudiant en BTS SIO
+# Portfolio d'Arthur DEMOISSON, étudiant en BTS SIO
 
 ### Objectifs :
 
