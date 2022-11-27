@@ -4,7 +4,16 @@
 
 1. Utiliser les technologies web pour créer et héberger mon portfolio ( en cours )
 
+
+### Objectifs terminés :
+
+1.  Creer une application mobile/ tablette en WindevMobile(27) dans le cadre d'un projet en entreprise
+2.  Donnexion d'api et test en C#
+
+
 ![Netbeans, HTML5, CSS3, Bootstrap, Git, Github](https://i.ibb.co/nfGJkJZ/dqd.png)
+*rajouter Windev et VisualStudio
+
 
 - __NetBeans__ : Environnement de développement intégré (IDE) utilisé pour ce projet
 - __HTML__ : Langage de description utilisé pour concevoir les pages web
